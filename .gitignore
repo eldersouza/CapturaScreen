@@ -1,0 +1,25 @@
+# Build Output
+bin/
+obj/
+
+# NuGet
+*.nupkg
+packages/
+
+# Visual Studio
+.vs/
+.vscode/
+publish/
+TestResults/
+*.suo
+*.user
+
+# Cake
+/tools
+
+/temp/
+/dist/
+*.pfx
+Bugs Encontrados.txt
+instruções.txt
+TODO.md

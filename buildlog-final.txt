@@ -1,0 +1,30 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Captura.Audio -> D:\Projetos\Captura\src\Captura.Audio\bin\Debug\netstandard2.0\Captura.Audio.dll
+  Captura.Base -> D:\Projetos\Captura\src\Captura.Base\bin\Debug\netstandard2.0\Captura.Base.dll
+D:\Projetos\Captura\src\Captura.Loc\LanguageFields.cs(30,50): warning CS0067: The event 'LanguageFields.LanguageChanged' is never used [D:\Projetos\Captura\src\Captura.Loc\Captura.Loc.csproj]
+  Captura.Loc -> D:\Projetos\Captura\src\Captura.Loc\bin\Debug\netstandard2.0\Captura.Loc.dll
+  Captura.FFmpeg -> D:\Projetos\Captura\src\Captura.FFmpeg\bin\Debug\netstandard2.0\Captura.FFmpeg.dll
+  Captura.Hotkeys -> D:\Projetos\Captura\src\Captura.Hotkeys\bin\Debug\net472\Captura.Hotkeys.dll
+  Captura.Imgur -> D:\Projetos\Captura\src\Captura.Imgur\bin\Debug\netstandard2.0\Captura.Imgur.dll
+D:\Projetos\Captura\src\Captura.MouseKeyHook\Steps\StepsRecorder.cs(188,40): warning CS0067: The event 'StepsRecorder.ErrorOccurred' is never used [D:\Projetos\Captura\src\Captura.MouseKeyHook\Captura.MouseKeyHook.csproj]
+  Captura.MouseKeyHook -> D:\Projetos\Captura\src\Captura.MouseKeyHook\bin\Debug\net472\Captura.MouseKeyHook.dll
+  Captura.NAudio -> D:\Projetos\Captura\src\Captura.NAudio\bin\Debug\netstandard2.0\Captura.NAudio.dll
+  Captura.SharpAvi -> D:\Projetos\Captura\src\Captura.SharpAvi\bin\Debug\net472\Captura.SharpAvi.dll
+  Captura.Windows -> D:\Projetos\Captura\src\Captura.Windows\bin\Debug\net472\Captura.Windows.dll
+  Captura.YouTube -> D:\Projetos\Captura\src\Captura.YouTube\bin\Debug\netstandard2.0\Captura.YouTube.dll
+D:\Projetos\Captura\src\Screna\AudioRecorder.cs(93,40): warning CS0067: The event 'AudioRecorder.ErrorOccurred' is never used [D:\Projetos\Captura\src\Screna\Screna.csproj]
+  Screna -> D:\Projetos\Captura\src\Screna\bin\Debug\netstandard2.0\Screna.dll
+  Captura.Core -> D:\Projetos\Captura\src\Captura.Core\bin\Debug\net472\Captura.Core.dll
+  Captura.ViewCore -> D:\Projetos\Captura\src\Captura.ViewCore\bin\Debug\net472\Captura.ViewCore.dll
+  Captura -> D:\Projetos\Captura\src\Captura\bin\Debug\CapturaScreen.exe
+
+Build succeeded.
+
+D:\Projetos\Captura\src\Captura.Loc\LanguageFields.cs(30,50): warning CS0067: The event 'LanguageFields.LanguageChanged' is never used [D:\Projetos\Captura\src\Captura.Loc\Captura.Loc.csproj]
+D:\Projetos\Captura\src\Captura.MouseKeyHook\Steps\StepsRecorder.cs(188,40): warning CS0067: The event 'StepsRecorder.ErrorOccurred' is never used [D:\Projetos\Captura\src\Captura.MouseKeyHook\Captura.MouseKeyHook.csproj]
+D:\Projetos\Captura\src\Screna\AudioRecorder.cs(93,40): warning CS0067: The event 'AudioRecorder.ErrorOccurred' is never used [D:\Projetos\Captura\src\Screna\Screna.csproj]
+    3 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:20.55
